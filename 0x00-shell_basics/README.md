@@ -1,1 +1,1 @@
-Just creating simple bash scripts
+Just creating basic  bash scripts
